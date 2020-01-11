@@ -1,0 +1,25 @@
+#########################
+#Unreal Generaated Files#
+#########################
+
+*/Build
+*/Binaries
+*/Intermediate
+*/DerivedDataCache
+*/Saved	
+*_BuiltData.uasset
+*_.sln
+*_.ini
+Saved/
+Binaries/
+Intermediate/
+BattleTank.code-workspace
+BattleTank.uproject
+Source/BattleTank/polo.h
+Source/BattleTank/polo.cpp
+.vs/
+Content/
+Config/DefaultEngine.ini
+Config/
+TankBattle.sln
+TankBattle.uproject
